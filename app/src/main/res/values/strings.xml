@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smeny</string>
+    <string-array name="spinner_options">      <item>A</item>      <item>B</item>      <item>C</item>      <item>D</item>      <item>E</item>    </string-array>
+    <string-array name="type">      <item>Vložená</item>      <item>Školenie</item>      <item>Iné</item>    </string-array>
+</resources>
